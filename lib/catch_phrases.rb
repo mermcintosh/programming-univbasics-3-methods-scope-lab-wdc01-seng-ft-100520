@@ -15,5 +15,5 @@ end
 def all_phrases
   puts "It's-a me, Mario!"
   puts $status
-  puts $link
+  puts "It's Dangerous To Go Alone! Take This."
 end
