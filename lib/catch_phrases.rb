@@ -14,6 +14,7 @@ def $link
 end
 
 def all_phrases
-  puts status
-  puts link
+  puts $phrase
+  puts $status
+  puts $link
 end
