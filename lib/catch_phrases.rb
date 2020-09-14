@@ -13,7 +13,7 @@ def link
 end
 
 def all_phrases
-  puts $phrase
+  puts "It's-a me, Mario!"
   puts $status
   puts $link
 end
